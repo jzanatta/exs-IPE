@@ -1,1 +1,1 @@
-# exs-IPE
+exercicios Introdução a Programação Estruturada
